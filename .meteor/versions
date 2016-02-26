@@ -177,6 +177,7 @@ templating-tools@1.0.0
 tmeasday:publish-counts@0.7.3
 tracker@1.0.9
 tsega:bootstrap3-datetimepicker@4.17.37_1
+twbs:bootstrap@3.3.6
 twitter@1.1.5
 ui@1.0.8
 underscore@1.0.4
@@ -189,4 +190,5 @@ utilities:menu@0.1.7
 utilities:onsubscribed@0.1.2
 webapp@1.2.3
 webapp-hashing@1.0.5
+webbroi:telescope-theme-iris@0.3.1
 zimme:active-route@2.3.2
